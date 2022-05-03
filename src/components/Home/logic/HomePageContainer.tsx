@@ -6,37 +6,38 @@ import {
   useAppContext,
 } from '../../organisms/AppContextProvider/AppContextProvider.tsx';
 
-export const HomePageContainer = ({ render, renderLoading }: IHomePageContainer) => {
-  const { state, dispatch } = useAppContext();
-  const { pageNumber, pageSize, checkedList } = state;
-  const ORGANISATIONS = gql`
-    query getOrganisations($pageSize: Int, $after: String) {
-      search(query: "is:public type:org", type: USER, first: $pageSize, after: $after) {
-        userCount
-        pageInfo {
-          endCursor
-          startCursor
-        }
-        edges {
-          node {
-            ... on Organization {
-              login
-              url
-              avatarUrl
-            }
+export const ORGANISATIONS = gql`
+  query getOrganisations($pageSize: Int, $after: String) {
+    search(query: "is:public type:org", type: USER, first: $pageSize, after: $after) {
+      userCount
+      pageInfo {
+        endCursor
+        startCursor
+      }
+      edges {
+        node {
+          ... on Organization {
+            login
+            url
+            avatarUrl
           }
         }
       }
     }
-  `;
+  }
+`;
 
-  const encodeCursor = (page) => {
-    const encoded = `cursor:${(page - 1) * state.pageSize}`;
-    return btoa(unescape(encodeURIComponent(encoded)));
-  };
+export const encodeCursor = (page, pageSize) => {
+  const encoded = `cursor:${(page - 1) * pageSize}`;
+  return btoa(unescape(encodeURIComponent(encoded)));
+};
+
+export const HomePageContainer = ({ render, renderLoading }: IHomePageContainer) => {
+  const { state, dispatch } = useAppContext();
+  const { pageNumber, pageSize, checkedList } = state;
 
   const { loading, error, data } = useQuery(ORGANISATIONS, {
-    variables: { pageSize: state.pageSize, after: encodeCursor(state?.pageNumber) },
+    variables: { pageSize: state.pageSize, after: encodeCursor(state?.pageNumber, state.pageSize) },
   });
 
   const onPageSizeChange = (value: number) => {

@@ -1,0 +1,914 @@
+
+{
+    "search": {
+    "__typename": "SearchResultItemConnection",
+    "userCount": 4493504,
+    "pageInfo": {
+        "__typename": "PageInfo",
+        "endCursor": "Y3Vyc29yOjIwMA==",
+        "startCursor": "Y3Vyc29yOjEwMQ=="
+    },
+    "edges": [
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "mueller-tech",
+                "url": "https://github.com/mueller-tech",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15195156?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "xiaoaitongxue",
+                "url": "https://github.com/xiaoaitongxue",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15195510?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "bayuorganize",
+                "url": "https://github.com/bayuorganize",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15195603?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "ITBHULabsK2",
+                "url": "https://github.com/ITBHULabsK2",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15195707?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "FJT520baobei",
+                "url": "https://github.com/FJT520baobei",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15197084?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "hezan",
+                "url": "https://github.com/hezan",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15197264?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "lallaworks",
+                "url": "https://github.com/lallaworks",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15196493?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "CriticalMasser",
+                "url": "https://github.com/CriticalMasser",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15197449?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "rpdiit15",
+                "url": "https://github.com/rpdiit15",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15197474?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "mjsons",
+                "url": "https://github.com/mjsons",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15250875?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "just4clik",
+                "url": "https://github.com/just4clik",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15251237?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "mygoodapp",
+                "url": "https://github.com/mygoodapp",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15251434?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "Inacio200",
+                "url": "https://github.com/Inacio200",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15251515?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "eisenbachdev",
+                "url": "https://github.com/eisenbachdev",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15254072?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "tiyd-python-adam-jon",
+                "url": "https://github.com/tiyd-python-adam-jon",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15252620?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "dargman",
+                "url": "https://github.com/dargman",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15252746?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "lecathal",
+                "url": "https://github.com/lecathal",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15252903?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "preethyunnikrishnanpr",
+                "url": "https://github.com/preethyunnikrishnanpr",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15252989?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "Wormsck57",
+                "url": "https://github.com/Wormsck57",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15251963?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "AVALON-NETWORK",
+                "url": "https://github.com/AVALON-NETWORK",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15255291?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "elietebragga",
+                "url": "https://github.com/elietebragga",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15254987?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "bostonic",
+                "url": "https://github.com/bostonic",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15253033?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "AmplitudeDesignInc",
+                "url": "https://github.com/AmplitudeDesignInc",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15253084?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "Lab2021",
+                "url": "https://github.com/Lab2021",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15253256?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "cabko",
+                "url": "https://github.com/cabko",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15253272?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "cumhom",
+                "url": "https://github.com/cumhom",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15320125?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "FetchSky",
+                "url": "https://github.com/FetchSky",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15320299?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "liwlgit",
+                "url": "https://github.com/liwlgit",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15320321?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "synergy1223",
+                "url": "https://github.com/synergy1223",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15320357?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "venturas-ltd",
+                "url": "https://github.com/venturas-ltd",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15320489?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "eastcom",
+                "url": "https://github.com/eastcom",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15319454?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "ButlerP118",
+                "url": "https://github.com/ButlerP118",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15319977?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "prettydigital",
+                "url": "https://github.com/prettydigital",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15319168?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "MultiGuidetto",
+                "url": "https://github.com/MultiGuidetto",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15323028?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "differentCakos",
+                "url": "https://github.com/differentCakos",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15323201?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "BerireG",
+                "url": "https://github.com/BerireG",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15323380?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "irrara",
+                "url": "https://github.com/irrara",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15322146?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "SPK1412",
+                "url": "https://github.com/SPK1412",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15318025?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "justification",
+                "url": "https://github.com/justification",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15320816?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "PurushothamTech",
+                "url": "https://github.com/PurushothamTech",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15321232?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "ShaftesburyVR",
+                "url": "https://github.com/ShaftesburyVR",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15365819?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "POOMitras",
+                "url": "https://github.com/POOMitras",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15364973?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "sohpysp",
+                "url": "https://github.com/sohpysp",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15365401?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "volontario",
+                "url": "https://github.com/volontario",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15366163?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "gobiernomich",
+                "url": "https://github.com/gobiernomich",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15366282?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "Stewardship",
+                "url": "https://github.com/Stewardship",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15368759?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "JesterzModdedToyBoxOfFun",
+                "url": "https://github.com/JesterzModdedToyBoxOfFun",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15369748?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "vijayasi1989",
+                "url": "https://github.com/vijayasi1989",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15370272?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "iasa-comunicacion",
+                "url": "https://github.com/iasa-comunicacion",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15370516?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "BPAC",
+                "url": "https://github.com/BPAC",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15371067?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "Watulio",
+                "url": "https://github.com/Watulio",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15367990?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "toddynetwork",
+                "url": "https://github.com/toddynetwork",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15368110?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "TeCPistorezzi",
+                "url": "https://github.com/TeCPistorezzi",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15367349?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "dobrov1",
+                "url": "https://github.com/dobrov1",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15369463?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "twoodlan22",
+                "url": "https://github.com/twoodlan22",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15367059?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "Mickeyth34",
+                "url": "https://github.com/Mickeyth34",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15526359?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "zHuskyDev",
+                "url": "https://github.com/zHuskyDev",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15526757?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "critick",
+                "url": "https://github.com/critick",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15527056?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "quantumcomput",
+                "url": "https://github.com/quantumcomput",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15528981?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "provasystems",
+                "url": "https://github.com/provasystems",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15527447?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "hexpakistan",
+                "url": "https://github.com/hexpakistan",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15527595?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "EsenciaWeb",
+                "url": "https://github.com/EsenciaWeb",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15527697?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "IFallInLove",
+                "url": "https://github.com/IFallInLove",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15527708?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "dannyboyz10",
+                "url": "https://github.com/dannyboyz10",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15527779?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "mastiwithus",
+                "url": "https://github.com/mastiwithus",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15527836?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "mnthe999",
+                "url": "https://github.com/mnthe999",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15531301?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "nac-gantabya",
+                "url": "https://github.com/nac-gantabya",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15528378?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "appworkz",
+                "url": "https://github.com/appworkz",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15532658?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "qwwq321",
+                "url": "https://github.com/qwwq321",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15526095?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "SpectreThemes",
+                "url": "https://github.com/SpectreThemes",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15525015?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "vacosca",
+                "url": "https://github.com/vacosca",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15525119?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "codeposty",
+                "url": "https://github.com/codeposty",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15544288?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "Lab1521PH",
+                "url": "https://github.com/Lab1521PH",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15546571?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "STICKGroup",
+                "url": "https://github.com/STICKGroup",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15540329?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "foglia1999",
+                "url": "https://github.com/foglia1999",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15646469?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "imyunall",
+                "url": "https://github.com/imyunall",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15646507?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "rrgrgrgr",
+                "url": "https://github.com/rrgrgrgr",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15646510?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "Buildinganewnigeria",
+                "url": "https://github.com/Buildinganewnigeria",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15646908?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "ZhjYaYa",
+                "url": "https://github.com/ZhjYaYa",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15645699?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "babamgido1",
+                "url": "https://github.com/babamgido1",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15645755?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "lyyuxuan",
+                "url": "https://github.com/lyyuxuan",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15645304?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "robinwucn",
+                "url": "https://github.com/robinwucn",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15645453?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "NGAiframe",
+                "url": "https://github.com/NGAiframe",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15645988?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "container-terminal",
+                "url": "https://github.com/container-terminal",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15644517?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "wzhj",
+                "url": "https://github.com/wzhj",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15643460?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "itcast-fe",
+                "url": "https://github.com/itcast-fe",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15643524?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "Felipevaz1",
+                "url": "https://github.com/Felipevaz1",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15643564?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "WebServices-TeamZelus",
+                "url": "https://github.com/WebServices-TeamZelus",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15648110?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "greenofgrass0412",
+                "url": "https://github.com/greenofgrass0412",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15646063?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "personalartko",
+                "url": "https://github.com/personalartko",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15646301?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "lean-photography",
+                "url": "https://github.com/lean-photography",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15689040?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "NayaraRubioP",
+                "url": "https://github.com/NayaraRubioP",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15689070?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "cristino8",
+                "url": "https://github.com/cristino8",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15689956?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "PCarlosHclaroP",
+                "url": "https://github.com/PCarlosHclaroP",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15690221?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "jeslava56",
+                "url": "https://github.com/jeslava56",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15691626?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "Pixelsweb",
+                "url": "https://github.com/Pixelsweb",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15687055?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "B2Bpay",
+                "url": "https://github.com/B2Bpay",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15687238?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "mtbeventrental",
+                "url": "https://github.com/mtbeventrental",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15687345?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "GaussMoneySquare",
+                "url": "https://github.com/GaussMoneySquare",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15687862?v=4"
+            }
+        },
+        {
+            "__typename": "SearchResultItemEdge",
+            "node": {
+                "__typename": "Organization",
+                "login": "e-bware",
+                "url": "https://github.com/e-bware",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15692951?v=4"
+            }
+        }
+    ]
+}
+}

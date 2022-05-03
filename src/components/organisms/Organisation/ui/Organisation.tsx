@@ -14,7 +14,9 @@ export const Organisation = ({ data, checkedList, onCheck }: IOrganisation) => {
           className="h-10 w-10 rounded-full inline-block align-middle"
         />
         <div className="inline-block align-middle ml-3">
-          <h3 className="text-lg leading-6 font-medium text-gray-900">{login}</h3>
+          <h3 className="text-lg leading-6 font-medium text-gray-900" data-testid="login">
+            {login}
+          </h3>
           <a
             href={`https://github.com/${login}`}
             className="mt-1 max-w-2xl text-sm text-sky-600 hover:underline"

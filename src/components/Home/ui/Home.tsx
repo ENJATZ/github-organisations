@@ -13,7 +13,6 @@ export const Home = ({
   checkedList,
 }: IHome) => {
   const { edges: organisations, userCount: count } = data;
-
   const pageSizeOptions: IPageSizeOptions[] = [
     {
       value: 50,
@@ -30,7 +29,7 @@ export const Home = ({
       <div className="flex justify-between mb-5">
         <div>
           <h2 className="text-lg font-bold mb-5">All organisations found</h2>
-          <span className="text-sm">
+          <span className="text-sm" data-testid="total-count">
             Showing items {+((pageNumber - 1) * pageSize) + 1} - {pageNumber * pageSize} out of{' '}
             {count.toLocaleString('en-US') ?? 0}
           </span>

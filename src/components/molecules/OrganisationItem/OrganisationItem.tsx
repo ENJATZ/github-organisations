@@ -11,6 +11,7 @@ export const OrganisationItem = ({ info }) => {
           src={avatarUrl}
           alt={`${login}'s avatar`}
           className="inline-block h-12 w-12 rounded-full"
+          data-testid="avatar"
         />
         <div className="ml-2 inline-block align-top">
           <p className="text-lg font-regular">{login}</p>
