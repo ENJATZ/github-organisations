@@ -1,0 +1,20 @@
+.checkbox {
+    cursor: pointer;
+}
+
+.checkbox svg {
+    stroke: gray;
+    transition: .5s;
+}
+.checkbox svg:hover {
+    stroke: black;
+}
+
+.active svg {
+    stroke: none;
+    fill: green;
+}
+
+.active svg:hover {
+    stroke: none;
+}
